@@ -17,7 +17,7 @@ print(type(sueldo))
 
 print(int(num1)+int(num2))
 print(int(sueldo))
-print("Sueldo mensual:" +str(sueldo))
+print("Sueldo mensual:",str(sueldo))
 print(float(num3))
 print(hex(num3))
 
